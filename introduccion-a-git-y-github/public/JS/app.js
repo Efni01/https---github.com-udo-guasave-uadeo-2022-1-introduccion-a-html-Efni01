@@ -1,1 +1,1 @@
-alert( "Hola mundo de JS")
+alert("Hola mundo de JS")
